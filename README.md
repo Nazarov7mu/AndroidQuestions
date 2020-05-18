@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/58557561/logcat-full-of-input-svinfo-flags-i
 **Saving/Restoring custom ArrayList on Android screen rotate?**
 
 https://stackoverflow.com/questions/35706573/saving-restoring-custom-arraylist-on-android-screen-rotate
+
+**can't find android support repository in sdk manager**
+
+https://stackoverflow.com/questions/48987223/activitytestrule-is-not-imported
