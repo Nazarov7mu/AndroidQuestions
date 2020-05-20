@@ -12,3 +12,12 @@ https://stackoverflow.com/questions/35706573/saving-restoring-custom-arraylist-o
 **can't find android support repository in sdk manager**
 
 https://stackoverflow.com/questions/48987223/activitytestrule-is-not-imported
+
+
+# Material design
+
+**Buttons**
+
+https://medium.com/over-engineering/hands-on-with-material-components-for-android-buttons-76fa1a92ec0a
+
+
