@@ -20,4 +20,10 @@ https://stackoverflow.com/questions/48987223/activitytestrule-is-not-imported
 
 https://medium.com/over-engineering/hands-on-with-material-components-for-android-buttons-76fa1a92ec0a
 
+# For publishing
+
+**Changing Android Package Name**
+
+https://blog.usejournal.com/quick-guide-on-changing-android-package-name-3a7e9931a45
+
 
